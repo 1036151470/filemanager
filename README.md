@@ -9,7 +9,7 @@ Filemanager
 	Freemarker
 
 ## 功能介绍
-简单的基于web的文件管理应用，提供双面板和文件删除，以及文件重命名功能，有点类似与Windows的Total commander
+简单的基于web的文件管理应用，提供双面板和文件删除，以及文件重命名功能，有点类似Windows的Total commander
 
 ## 快速开始
 * 本程序为maven项目，所以首先需要下载和配置好maven。http://maven.apache.org/download.cgi
