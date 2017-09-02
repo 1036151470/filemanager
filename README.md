@@ -20,4 +20,4 @@ Filemanager
 
 
 ## 应用截图
-![图1](screenshot/filemanager.jpg.jpg)
+![图1](screenshot/filemanager.jpg)
